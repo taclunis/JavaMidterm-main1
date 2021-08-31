@@ -21,7 +21,7 @@ public class UseArrayList {
         testing.add("my");
         testing.add("name");
         testing.add("is");
-        testing.add("Sabreen");
+        testing.add("theo");
         System.out.println("After all these add methods"+testing.toString());
 
         peek(testing);
